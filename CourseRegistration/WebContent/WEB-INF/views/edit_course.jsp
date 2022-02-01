@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div align="center">
-		<h2>Please Enter Curse Information</h2>
+		<h2>Please Enter Course Information</h2>
 		<form:form action="saveCourse" method="post" modelAttribute="course">
 			<table border="0" cellpadding="5">
 			       <tr>
